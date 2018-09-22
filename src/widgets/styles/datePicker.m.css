@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.root {
+	font-family: "Roboto", sans-serif;
+  text-align: center;
+  padding: 0.5em;
+  color: #000;
+}
+
+input {
+  font-size: 1.2em;
+}
+
+button {
+  color: #fff;
+  background: rgb(16, 184, 10);
+  padding: 1em;
+}
+
+.hidden {
+  display: none;
+}
+
+.calendarcontainer {
+  background: #fff;
+}

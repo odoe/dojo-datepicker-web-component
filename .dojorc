@@ -1,0 +1,5 @@
+{
+  "build-widget": {
+    "elements": ["src/widgets/DatePicker"]
+  }
+}
